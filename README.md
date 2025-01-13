@@ -27,9 +27,9 @@ PRESS 6 key to add a wireframe Z cylinder at player position. The cylinder exist
 ~ (tilde) key to open the dev console(toggle key)<br>
 
 #### *THE XBOX CONTROLS:-*<br>
-LEFT joystick to move around in space<br>
-RIGHT joystick to look around in space<br>
-RIGHT and LEFT shoulder buttons to move in the up and down direction<br>
+LEFT JOYSTICK to move around in space<br>
+RIGHT JOYSTICK to look around in space<br>
+RIGHT and LEFT SHOULDER buttons to move in the up and down direction<br>
 A button to move 10 times faster<br>
 
 START button to reset the player position and orientation to world origin<br>

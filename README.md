@@ -1,9 +1,6 @@
-
 ![Screenshot 2025-01-13 205504](https://github.com/user-attachments/assets/f3c0431e-c053-452d-b01c-36bfecdca623)<br>
-## Known Issues<br>
-*None*
 
-======================================================
+A basic 3D template for a game project
 
 ## How to use<br>
 #### *THE KEYBOARD CONTROLS:-*<br>
@@ -55,3 +52,8 @@ Method 2(for advanced users):-
 	NOTE:- 	
 		* Visual Studio 2022 must be installed on the system.
 		* In step 5 mentioned above, if you want you can execute the program with the debugger too.
+
+## Known Issues<br>
+*None*
+
+======================================================
